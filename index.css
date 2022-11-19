@@ -1,0 +1,196 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+body{
+   font-family: 'League Spartan', sans-serif;
+}
+.header-container {
+   display: flex;
+   background-color: #F8F8F8;
+   width: 1440px;
+   height: 900px;
+   padding-top: 4px;
+   padding-left: 133px;
+   padding-right: 133px;
+
+}
+.header-title{
+   margin-top: 100px;
+   margin-bottom: 53px;
+   font-size: 24px;
+   line-height: 45px;
+   font-weight: 200;
+}
+.header-subtitle{
+   width: 659px;
+   height: 215px;
+   font-weight: 200;
+   font-size: 250px;
+   line-height: 230px;
+   margin-bottom: 43px
+}
+.header-description{
+   width: 575px;
+   height: 142px;
+   font-size: 32px;
+   line-height: 49,6px;
+   font-weight: 200;
+   margin-bottom: 61px;
+   margin-right: 82px;
+}
+.buy-wrapper{
+   display: flex;
+}
+.buy-link{
+   display: block;
+   width: 278px;
+   height: 82px;
+   background-color: #161515;
+   color: #F8F8F8;
+   text-decoration: none;
+   font-size: 32px;
+   line-height: 82px;
+   text-align: center;
+   font-weight: 300;
+}
+.price{
+   font-weight: 300;
+    width: 278px;
+   height: 82px;
+   background-color: #ffffff;
+   color: #000000;
+   text-decoration: none;
+   font-size: 32px;
+   line-height: 82px;
+   text-align: center;  
+}
+.header-img{
+   display: block;
+   width: 720px;
+   height: 408px;
+   margin-top: 4px;
+   margin-left: 850px;
+   margin-right: 240px;
+}
+.popular-title{
+   font-weight: 300;
+   line-height: 45px;
+   font-size: 24px;
+   text-align: center;
+   margin-top: 43px;
+}
+.module-title{
+   font-weight: 400;
+   font-size: 72px;
+   line-height: 81px;
+   text-align: center;
+   margin-bottom: 194px;
+}
+.second-foto{
+   margin-left: 582px;
+   margin-right: 572px;
+}
+.rectangle{
+   margin-left: 511px;
+   margin-right: 512px;
+   margin-top: -550px;
+   margin-bottom: 67px;
+   background-color: #F8F8F8;
+   width: 417px;
+   height: 630px;
+}
+.second-header-title{
+   font-weight: 400;
+   font-size: 32px;
+   line-height: 29.5px;
+   text-align: center;
+   margin-bottom: 17px;
+}
+.second-description{
+   margin-left: 454px;
+   margin-right: 452px;
+   font-weight: 200;
+   font-size: 32px;
+   line-height: 49.6px;
+   width: 531px;
+   height: 194px;
+   text-align: center;
+   margin-bottom: 150px;
+}
+.third-foto{
+   margin-left: 470px;
+   margin-right: 470px;
+}
+.third-rectangle{
+   margin-left: 470px;
+   margin-right: 470px;
+   margin-top: -570px;
+   margin-bottom: 67px;
+   background-color: #F8F8F8;
+   width: 496px;
+   height: 630px;
+}
+.third-header-title{
+   font-weight: 400;
+   font-size: 32px;
+   line-height: 29.5px;
+   text-align: center;
+   margin-bottom: 17px;
+}
+.third-description{
+   margin-left: 465px;
+   margin-right: 465px;
+   font-weight: 200;
+   font-size: 32px;
+   line-height: 49.6px;
+   width: 510px;
+   height: 196px;
+   text-align: center;
+   margin-bottom: 59px;
+}
+.fourth-header-title{
+   font-weight: 400;
+   font-size: 32px;
+   line-height: 59.5px;
+   text-align: center;
+   margin-bottom: 9px;
+}
+.line-for-title {
+    margin: 0 auto;
+    width: 178px;
+    height: 1px;
+    background-color: #707070;
+    margin-bottom: 49px;
+}
+.fourth-description{
+   margin-left: 465px;
+   margin-right: 465px;
+   font-weight: 200;
+   font-size: 24px;
+   line-height: 40,8px;
+   width: 515px;
+   height: 231px;
+   text-align: center;
+   margin-bottom: 142px;
+}
+.orange{
+   color: #BB8B5D;
+   
+}
+
